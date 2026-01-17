@@ -160,4 +160,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ⭐ Star this repository if you found it useful! ⭐
 Experience the cool effects and smooth automation!
 
-</div> ```
+</div>
